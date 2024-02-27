@@ -19,7 +19,7 @@ title = "DREAMRUNNERS"
    # bio = "Music. Stuff."
    links = [
      { email = "mailto:contact@dreamrunners.se" },
-     { facebook = "https://facebook.com/dreamrunnersband" },
+     { facebook = "https://facebook.com/dreamrunners_music" },
      { instagram = "https://instagram.com/dreamrunners_music" },
-     { youtube = "https://youtube.com/dreamrunnersband" },
+     { youtube = "https://youtube.com/dreamrunners_music" },
    ]
