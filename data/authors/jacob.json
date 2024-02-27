@@ -1,0 +1,8 @@
+{
+    "name": "Jacob",
+    "image" : "images/profile_jacob.jpg",
+    "bio": "Vocals, Guitars, Keyboards, Producer",
+    "social": [
+        { "facebook": "https://www.facebook.com/jacob.jarnestrom" }
+    ]
+}

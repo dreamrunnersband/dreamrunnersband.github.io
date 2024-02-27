@@ -1,0 +1,44 @@
+[[main]]
+  name = "TOUR"
+  pageRef = "tour"
+  weight = 10
+
+[[main]]
+  name = "THE BAND"
+  pageRef = "band"
+  weight = 20
+
+[[main]]
+  name = "DREAMRUNNERS"
+  parent = "THE BAND"
+  pageRef = "band"
+  weight = 21
+
+[[main]]
+  name = "JACOB"
+  parent = "THE BAND"
+  pageRef = "authors/jacob"
+  weight = 21
+  
+[[main]]
+  name = "JOHAN"
+  parent = "THE BAND"
+  pageRef = "authors/johan"
+  weight = 22
+
+[[main]]
+  name = "FREDRIK"
+  parent = "THE BAND"
+  pageRef = "authors/fredrik"
+  weight = 23
+
+[[main]]
+  name = "NIC"
+  parent = "THE BAND"
+  pageRef = "authors/nic"
+  weight = 24
+
+[[main]]
+  name = "CONTACT"
+  pageRef = "contact"
+  weight = 30
