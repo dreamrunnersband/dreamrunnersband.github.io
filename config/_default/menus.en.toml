@@ -4,37 +4,37 @@
   weight = 10
 
 [[main]]
-  name = "THE BAND"
+  name = "ABOUT"
   pageRef = "band"
   weight = 20
 
 [[main]]
   name = "DREAMRUNNERS"
-  parent = "THE BAND"
+  parent = "ABOUT"
   pageRef = "band"
   weight = 21
 
 [[main]]
   name = "JACOB"
-  parent = "THE BAND"
+  parent = "ABOUT"
   pageRef = "authors/jacob"
   weight = 21
   
 [[main]]
   name = "JOHAN"
-  parent = "THE BAND"
+  parent = "ABOUT"
   pageRef = "authors/johan"
   weight = 22
 
 [[main]]
   name = "FREDRIK"
-  parent = "THE BAND"
+  parent = "ABOUT"
   pageRef = "authors/fredrik"
   weight = 23
 
 [[main]]
   name = "NIC"
-  parent = "THE BAND"
+  parent = "ABOUT"
   pageRef = "authors/nic"
   weight = 24
 
