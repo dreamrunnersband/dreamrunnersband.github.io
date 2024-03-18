@@ -1,6 +1,6 @@
 [[main]]
-  name = "TOUR"
-  pageRef = "tour"
+  name = "GIGS"
+  pageRef = "gigs"
   weight = 10
 
 [[main]]
@@ -39,6 +39,6 @@
   weight = 24
 
 [[main]]
-  name = "CONTACT"
+  name = "BOOKING/CONTACT"
   pageRef = "contact"
   weight = 30

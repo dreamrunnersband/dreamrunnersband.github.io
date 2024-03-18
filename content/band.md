@@ -7,4 +7,4 @@ authors:
   - "nic"
 ---
 
-Put a very interesting bio here
+An OK rockband with roots from Sweden and a spice of Italy.

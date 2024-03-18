@@ -8,18 +8,18 @@ title = "DREAMRUNNERS"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "images/paisley.png"
+  # logo = "images/logo.jpg"
   # secondaryLogo = "images/logo.png"
   # description = "My awesome website"
 
  [author]
    name = "Dreamrunners"
-   #image = "images/logo.jpg"
-   headline = "An OK rockband."
+   image = "images/logo.jpg"
+   headline = "An OK rockband with roots in Sweden and a spice of Italy."
    # bio = "Music. Stuff."
    links = [
      { email = "mailto:contact@dreamrunners.se" },
-     { facebook = "https://facebook.com/dreamrunners_music" },
+     { facebook = "https://www.facebook.com/profile.php?id=61556890701699" },
      { instagram = "https://instagram.com/dreamrunners_music" },
-     { youtube = "https://youtube.com/dreamrunners_music" },
+     { youtube = "https://www.youtube.com/@Dreamrunners_music/" },
    ]

@@ -18,8 +18,8 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+# defaultBackgroundImage = "fullband1.jpg" # used as default for background images 
+# defaultFeaturedImage = "fullband2.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 # smartTOC = true
@@ -36,8 +36,8 @@ highlightCurrentMenuArea = true
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "images/background.jpg" # used in: hero, and card
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "images/fullband1.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
