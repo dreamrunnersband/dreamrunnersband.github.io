@@ -5,7 +5,7 @@ title: GIGS
 ## UPCOMING
 | Date  | City |  Venue  |
 | :--------- | :-------- | ---------: |
-| 2024-04-28 | Uppsala | Uplands nation 	| 
+| 2024-04-28 | Uppsala | [Uplands nation](https://www.facebook.com/events/2741400049356809) 	| 
 | TBA | Uppsala | Harrys	| 
 | 2024-06-01 | Uppsala | TBA 	| 
 
