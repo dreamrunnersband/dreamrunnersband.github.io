@@ -3,7 +3,8 @@
     "image" : "images/profile_johan.jpg",
     "bio": "Guitars, Vocals, Tech support",
     "social": [
-        { "linkedin": "https://www.linkedin.com/in/johanengstrand/" },
-        { "facebook": "https://facebook.com/engstrandjohan" }
+        { "facebook": "https://facebook.com/engstrandjohan" },
+        { "instagram": "https://www.instagram.com/johanerikoscar" },
+        { "linkedin": "https://www.linkedin.com/in/johanengstrand/" }
     ]
 }

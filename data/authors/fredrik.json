@@ -3,6 +3,7 @@
     "image" : "images/profile_fredrik.jpg",
     "bio": "Bass, Vocals, ~~Harmonica~~",
     "social": [
-        { "facebook": "https://www.facebook.com/fredrik.calme" }
+        { "facebook": "https://www.facebook.com/fredrik.calme" },
+        { "instagram": "https://www.instagram.com/fredrikcalme" }
     ]
 }
