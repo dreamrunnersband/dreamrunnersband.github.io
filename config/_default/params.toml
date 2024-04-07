@@ -73,7 +73,7 @@ highlightCurrentMenuArea = true
   showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = false
-  sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  sharingLinks = [ "linkedin", "facebook", "email", "whatsapp"]
   showZenMode = false
 
 [list]
