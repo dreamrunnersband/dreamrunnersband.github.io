@@ -18,8 +18,8 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 
-# defaultBackgroundImage = "fullband1.jpg" # used as default for background images 
-# defaultFeaturedImage = "fullband2.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "images/dr11.jpg" # used as default for background images 
+# defaultFeaturedImage = "images/fullband2.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 # smartTOC = true
@@ -37,7 +37,7 @@ highlightCurrentMenuArea = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "images/fullband1.jpg" # used in: hero, and card
+  homepageImage = "images/dr6.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
@@ -53,8 +53,8 @@ highlightCurrentMenuArea = true
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = false
-  showHero = false
-  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -97,8 +97,8 @@ highlightCurrentMenuArea = true
 
 [taxonomy]
   showTermCount = false
-  showHero = false
-  # heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -106,8 +106,8 @@ highlightCurrentMenuArea = true
   cardView = false
 
 [term]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
