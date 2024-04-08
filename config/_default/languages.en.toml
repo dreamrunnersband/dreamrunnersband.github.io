@@ -15,7 +15,7 @@ title = "DREAMRUNNERS"
  [author]
    name = "Dreamrunners"
    image = "images/logo.jpg"
-   headline = "An OK rockband with roots in Sweden and a spice of Italy."
+   headline = "An energetic rockband with Swedish roots and some Italian spice."
    # bio = "Music. Stuff."
    links = [
      { email = "mailto:contact@dreamrunners.se" },
