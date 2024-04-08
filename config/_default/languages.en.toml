@@ -11,6 +11,7 @@ title = "DREAMRUNNERS"
   # logo = "images/logo.jpg"
   # secondaryLogo = "images/logo.png"
   # description = "My awesome website"
+  copyright = "© Dreamrunners 2024. Photo credit (backgrounds): Florence Stadelmann"
 
  [author]
    name = "Dreamrunners"
