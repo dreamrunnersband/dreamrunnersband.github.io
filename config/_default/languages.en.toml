@@ -8,9 +8,9 @@ title = "DREAMRUNNERS"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "images/logo.jpg"
+  # logo = "images/logo.png"
   # secondaryLogo = "images/logo.png"
-  # description = "My awesome website"
+  description = "Official website for the Swedish rock band Dreamrunners."
   copyright = "© Dreamrunners 2024. Photo credit (backgrounds): Florence Stadelmann"
 
  [author]
@@ -19,8 +19,8 @@ title = "DREAMRUNNERS"
    headline = "An energetic rock band with Swedish roots and some Italian spice."
    # bio = "Music. Stuff."
    links = [
-     { email = "mailto:contact@dreamrunners.se" },
-     { facebook = "https://www.facebook.com/profile.php?id=61556890701699" },
      { instagram = "https://instagram.com/dreamrunners_music" },
+     { facebook = "https://www.facebook.com/profile.php?id=61556890701699" },
      { youtube = "https://www.youtube.com/@Dreamrunners_music/" },
+     { email = "mailto:contact@dreamrunners.se" },
    ]
