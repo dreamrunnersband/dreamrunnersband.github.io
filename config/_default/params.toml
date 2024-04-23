@@ -18,7 +18,7 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "images/dr11.jpg" # used as default for background images 
+defaultBackgroundImage = "images/harrys_headbang.jpg" # used as default for background images 
 # defaultFeaturedImage = "images/fullband2.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
@@ -37,7 +37,7 @@ highlightCurrentMenuArea = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "images/dr6.jpg" # used in: hero, and card
+  homepageImage = "images/harrys_full.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
