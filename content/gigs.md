@@ -13,6 +13,7 @@ title: GIGS
 ## PAST
 | Date  | City |  Event/Venue  |
 | :--------- | :-------- | ---------: |
+| 2024-04-17 | Uppsala | Live recording, [Mixrummet](https://www.mixrummet.com/) | 
 | 2024-04-13 | Uppsala | [Harrys](https://www.facebook.com/events/1567399097377138)	| 
 | 2024-03-21 | Uppsala | [MEGASTORPUB, Värmlands nation](https://www.facebook.com/events/427681636373163) 	| 
 | 2024-03-09 | Uppsala | [DEBUT MEGA CONCERT, NY Corner](https://www.facebook.com/events/2342812815905784) 	|  
