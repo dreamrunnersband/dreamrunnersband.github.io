@@ -7,6 +7,7 @@ title: GIGS
 | Date  | City |  Event/Venue  |
 | :--------- | :-------- | ---------: |
 | 2024-06-01 | Uppsala | [Sommarsläpp, S:t Eriks torg](https://www.facebook.com/events/927040068819857) 	| 
+| 2024-06-03 | Uppsala | [Flogsta Summer Party](https://www.facebook.com/events/850301320223187/) | 
 
 ## PAST
 | Date  | City |  Event/Venue  |
