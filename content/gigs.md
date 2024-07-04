@@ -6,6 +6,9 @@ title: GIGS
 ## UPCOMING
 | Date  | City |  Event/Venue  |
 | :--------- | :-------- | ---------: |
+| 2024-07-20 | Västervik | Far & Son Pub |
+| 2024-07-25 | Uppsala | Bryggan, Södermanland-Nerikes nation |
+| 2024-08-31 | Uppsala | Uppsala Beer & Whisky |
 
 ## PAST
 | Date  | City |  Event/Venue  |
