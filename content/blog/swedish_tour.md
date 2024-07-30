@@ -6,7 +6,7 @@ title: "🇸🇪 Swedish tour 2024!"
 
 In July, the four Dreamrunners embarked on an epic journey down to Västervik to play at Far & Son Pub. The band has thus officially branched out of Uppsala, effectively launching their never-ending Swedish tour!
 
-Check out [GIGS](/gigs) for the full schedule and contact us (or your local venue) if you want Dreamrunners to come to your town!
+Check out [Gigs](/gigs) for the full schedule and contact us (or your local venue) if you want Dreamrunners to come to your town!
 
 
 
