@@ -1,5 +1,5 @@
 ---
-title: DREAMRUNNERS
+title: THE BAND
 authors:
   - "jacob"
   - "johan"

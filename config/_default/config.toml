@@ -19,6 +19,9 @@ buildFuture = false
 
 [imaging]
   anchor = 'Center'
+  quality = 90
+  resampleFilter = 'MitchellNetravali'
+  hint = 'photo'
 
 [taxonomies]
   tag = "tags"

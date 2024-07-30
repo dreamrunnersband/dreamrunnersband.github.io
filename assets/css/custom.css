@@ -1,4 +1,33 @@
+@font-face {
+    font-family: font;
+    src: url('/fonts/NIAGSOL.ttf');
+}
+
 /* Increase the default font size */
 html {
   font-size: 16pt;
 }
+
+.main-menu {
+  font-family: "Niagara Solid";
+}
+
+h1 {
+  font-family: "Niagara Solid";
+  font-weight: normal !important;
+  font-size: 42pt !important;
+}
+
+
+.text-base {
+  font-size: 42pt;
+}
+
+.main-menu .font-bg{
+  font-size: 34pt;
+}
+
+.main-menu .text-sm  {
+  font-size: 28pt;
+}
+

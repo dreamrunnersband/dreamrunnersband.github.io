@@ -14,13 +14,12 @@ title = "DREAMRUNNERS"
   copyright = "© Dreamrunners 2024"
 
  [author]
-   name = "Dreamrunners"
-   image = "images/logo.jpg"
-   headline = "An energetic rock band with Swedish roots and some Italian spice."
+   name = " "
+   # image = "images/logo.jpg"
+   headline = "A high-energy rock band with Swedish heritage and a touch of Italian zest."
    # bio = "Music. Stuff."
    links = [
      { instagram = "https://instagram.com/dreamrunners_music" },
      { facebook = "https://www.facebook.com/profile.php?id=61556890701699" },
      { youtube = "https://www.youtube.com/@Dreamrunners_music/" },
-     { email = "mailto:contact@dreamrunners.se" },
    ]
