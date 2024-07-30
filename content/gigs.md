@@ -1,5 +1,5 @@
 ---
-title: GIGS
+title: Gigs
 
 ---
 

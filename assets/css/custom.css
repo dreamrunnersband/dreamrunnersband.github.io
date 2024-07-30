@@ -12,15 +12,8 @@ html {
   font-family: "Niagara Solid";
 }
 
-h1 {
-  font-family: "Niagara Solid";
-  font-weight: normal !important;
-  font-size: 42pt !important;
-}
-
-
 .text-base {
-  font-size: 42pt;
+  font-size: 44pt;
 }
 
 .main-menu .font-bg{

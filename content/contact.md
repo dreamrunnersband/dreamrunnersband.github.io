@@ -1,5 +1,5 @@
 ---
-title: 'CONTACT'
+title: 'Contact'
 showAuthor: true
 ---
 

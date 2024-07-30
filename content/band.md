@@ -1,5 +1,5 @@
 ---
-title: THE BAND
+title: The band
 authors:
   - "jacob"
   - "johan"

@@ -1,44 +1,44 @@
 [[main]]
-  name = "GIGS"
+  name = "Gigs"
   pageRef = "gigs"
   weight = 10
 
 [[main]]
-  name = "ABOUT"
+  name = "About"
   pageRef = "band"
   weight = 20
 
 [[main]]
-  name = "DREAMRUNNERS"
-  parent = "ABOUT"
+  name = "Dreamrunners"
+  parent = "About"
   pageRef = "band"
   weight = 21
 
 [[main]]
-  name = "JACOB"
-  parent = "ABOUT"
+  name = "Jacob"
+  parent = "About"
   pageRef = "authors/jacob"
   weight = 21
   
 [[main]]
-  name = "JOHAN"
-  parent = "ABOUT"
+  name = "Johan"
+  parent = "About"
   pageRef = "authors/johan"
   weight = 22
 
 [[main]]
-  name = "FREDRIK"
-  parent = "ABOUT"
+  name = "Fredrik"
+  parent = "About"
   pageRef = "authors/fredrik"
   weight = 23
 
 [[main]]
-  name = "NIC"
-  parent = "ABOUT"
+  name = "Nic"
+  parent = "About"
   pageRef = "authors/nic"
   weight = 24
 
 [[main]]
-  name = "BOOKING/CONTACT"
+  name = "Booking/Contact"
   pageRef = "contact"
   weight = 30
