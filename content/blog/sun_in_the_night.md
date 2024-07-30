@@ -1,5 +1,5 @@
 ---
-title: "🎵 LISTEN: Sun in the Night"
+title: "🎵 Sun in the Night"
 ---
 
 Our first single!

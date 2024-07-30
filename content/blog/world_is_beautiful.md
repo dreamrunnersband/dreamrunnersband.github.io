@@ -1,5 +1,5 @@
 ---
-title: "🎵 LISTEN: World Is Beautiful"
+title: "🎵 World Is Beautiful"
 ---
 
 Our second single!
