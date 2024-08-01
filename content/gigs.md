@@ -7,6 +7,7 @@ title: Gigs
 | Date  | City |  Event/Venue  |
 | :--------- | :-------- | ---------: |
 | Aug. 31 | Uppsala | Uppsala Beer & Whisky |
+| Sep. 9 | Stockholm | Engelen |
 
 ## PAST
 
