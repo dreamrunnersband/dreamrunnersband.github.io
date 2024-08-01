@@ -14,13 +14,13 @@
   weight = 17
 
 [[main]]
-  name = "Booking/Contact"
-  pageRef = "contact"
+  name = "About"
+  pageRef = "band"
   weight = 19
 
 [[main]]
-  name = "About"
-  pageRef = "band"
+  name = "Contact"
+  pageRef = "contact"
   weight = 20
 
 [[main]]
