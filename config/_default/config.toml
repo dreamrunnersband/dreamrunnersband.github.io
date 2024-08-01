@@ -19,7 +19,7 @@ buildFuture = false
 
 [imaging]
   anchor = 'Smart'
-  quality = 90
+  quality = 75
   resampleFilter = 'MitchellNetravali'
   hint = 'photo'
 

@@ -4,6 +4,21 @@
   weight = 10
 
 [[main]]
+  name = "Media"
+  pageRef = "media"
+  weight = 15
+
+[[main]]
+  name = "Shop"
+  pageRef = "shop"
+  weight = 17
+
+[[main]]
+  name = "Booking/Contact"
+  pageRef = "contact"
+  weight = 19
+
+[[main]]
   name = "About"
   pageRef = "band"
   weight = 20
@@ -18,27 +33,22 @@
   name = "Jacob"
   parent = "About"
   pageRef = "authors/jacob"
-  weight = 21
+  weight = 22
   
 [[main]]
   name = "Johan"
   parent = "About"
   pageRef = "authors/johan"
-  weight = 22
+  weight = 23
 
 [[main]]
   name = "Fredrik"
   parent = "About"
   pageRef = "authors/fredrik"
-  weight = 23
+  weight = 24
 
 [[main]]
   name = "Nic"
   parent = "About"
   pageRef = "authors/nic"
-  weight = 24
-
-[[main]]
-  name = "Booking/Contact"
-  pageRef = "contact"
-  weight = 30
+  weight = 25
