@@ -6,9 +6,11 @@ title: Gigs
 ## UPCOMING (2024)
 | Date  | City |  Event/Venue  |
 | :--------- | :-------- | ---------: |
-| Aug. 23 | Uppsala | V-Dala nation |
+| Aug. 23 | Uppsala | [V-Dala nation](https://www.facebook.com/events/843630934542883) |
 | Aug. 24 | Uppsala | [Måsfestivalen, Göteborgs nation](https://www.facebook.com/events/2218554245168075) |
 | Aug. 31 | Uppsala | [Uppsala Beer & Whisky](https://www.facebook.com/events/1159153171916783) |
+| Sep. 5 | Uppsala | Gästrike-Hälsinge nation |
+| Sep. 7 | Uppsala | NY Corner |
 | Sep. 9 | Stockholm | Engelen |
 
 ## PAST
