@@ -6,10 +6,6 @@ title: Gigs
 ## UPCOMING (2024)
 | Date  | City |  Event/Venue  |
 | :--------- | :-------- | ---------: |
-| Aug. 31 | Uppsala | [Uppsala Beer & Whisky](https://www.facebook.com/events/1159153171916783) |
-| Sep. 5 | Uppsala | Gästrike-Hälsinge nation |
-| Sep. 7 | Uppsala | [NY Corner](https://www.facebook.com/events/1221075059228131) |
-| Sep. 9 | Stockholm | Engelen |
 
 ## PAST
 
@@ -20,6 +16,11 @@ title: Gigs
 | Jul. 25 | Uppsala | [Bryggan Sommarklubb, Södermanland-Nerikes nation](https://www.facebook.com/events/1143359500760304) |
 | Aug. 23 | Uppsala | [V-Dala nation](https://www.facebook.com/events/843630934542883) |
 | Aug. 24 | Uppsala | [Måsfestivalen, Göteborgs nation](https://www.facebook.com/events/2218554245168075) |
+| Aug. 31 | Uppsala | [Uppsala Beer & Whisky](https://www.facebook.com/events/1159153171916783) |
+| Sep. 5 | Uppsala | [GHuben, Gästrike-Hälsinge nation](https://www.instagram.com/p/C_dDzO6sKe4/) |
+| Sep. 6 | Uppsala | [Reccepub, Smålands nation](https://www.instagram.com/p/C_iZP-qoOFQ) |
+| Sep. 7 | Uppsala | [Flogsta Kick-Off, NY Corner](https://www.facebook.com/events/1221075059228131) |
+| Sep. 9 | Stockholm | [Engelen](https://www.facebook.com/events/1028970172103539) |
 
 ### *UPPSALA WORLD TOUR 2024*
 | Date  | City |  Event/Venue  |
