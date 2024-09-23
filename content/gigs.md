@@ -6,7 +6,9 @@ title: Gigs
 ## UPCOMING (2024)
 | Date  | City |  Event/Venue  |
 | :--------- | :-------- | ---------: |
-
+| Oct. 9  | Uppsala | Livekarusellen, Grand |
+| Nov. 6  | Uppsala | Livekarusellen, Grand |
+| Dec. 10 | Uppsala | Livekarusellen, Grand |
 ## PAST
 
 ### *SWEDISH TOUR 2024 (ONGOING)*
@@ -30,6 +32,6 @@ title: Gigs
 | Apr. 13 | Uppsala | [Harrys](https://www.facebook.com/events/1567399097377138)	| 
 | Apr. 17 | Uppsala | Studio sessions, [Mixrummet](https://www.mixrummet.com/) | 
 | Apr. 28 | Uppsala | [POPLANDS 2024, Uplands nation](https://www.facebook.com/events/2741400049356809) 	| 
-| May. 11 | Uppsala | [MEGA CONCERT II, NY Corner](https://www.facebook.com/events/959992072178431) 	| 
+| May 11 | Uppsala | [MEGA CONCERT II, NY Corner](https://www.facebook.com/events/959992072178431) 	| 
 | Jun. 1  | Uppsala | [Sommarsläpp, S:t Eriks torg](https://www.facebook.com/events/927040068819857) 	| 
 | Jun. 3  | Uppsala | [Flogsta Summer Party](https://www.facebook.com/events/850301320223187/) | 
