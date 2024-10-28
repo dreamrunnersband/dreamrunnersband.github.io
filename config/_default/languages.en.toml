@@ -13,7 +13,7 @@ title = "Dreamrunners"
   description = "Official website for the Swedish rock band Dreamrunners."
   copyright = "© Dreamrunners 2024"
 
- [author]
+ [params.author]
    name = " "
    # image = "images/logo.jpg"
    headline = "A high-energy rock band with Swedish heritage and a touch of Italian zest."
