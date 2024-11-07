@@ -6,7 +6,6 @@ title: Gigs
 ## UPCOMING (2024)
 | Date  | City |  Event/Venue  |
 | :--------- | :-------- | ---------: |
-| Nov. 6  | Uppsala | Livekarusellen, Grand |
 | Dec. 10 | Uppsala | Livekarusellen, Grand |
 ## PAST
 
@@ -31,3 +30,4 @@ title: Gigs
 | Sep. 9 | Stockholm | [Engelen](https://www.facebook.com/events/1028970172103539) |
 | Oct. 9  | Uppsala | Livekarusellen, Grand |
 | Oct. 26 | Uppsala | [Flogsta Halloween Party, NY Corner](https://fb.me/e/4TxNb7hiB) |
+| Nov. 6  | Uppsala | Livekarusellen, Grand |
