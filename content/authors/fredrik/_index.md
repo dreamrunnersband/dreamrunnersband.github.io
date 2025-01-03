@@ -1,5 +1,6 @@
 ---
 title: Fredrik
+draft: true
 ---
 
 ![Fredrik, the bass freak, headbanging at a show](images/fredrik_headbang.jpg)
