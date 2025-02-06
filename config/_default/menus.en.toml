@@ -40,15 +40,3 @@
   parent = "About"
   pageRef = "authors/johan"
   weight = 23
-
-[[main]]
-  name = "Fredrik"
-  parent = "About"
-  pageRef = "authors/fredrik"
-  weight = 24
-
-[[main]]
-  name = "Nic"
-  parent = "About"
-  pageRef = "authors/nic"
-  weight = 25
