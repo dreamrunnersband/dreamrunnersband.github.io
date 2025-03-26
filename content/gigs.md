@@ -3,10 +3,13 @@ title: Gigs
 
 ---
 
-## UPCOMING (2024)
+## UPCOMING (2025)
 | Date  | City |  Event/Venue  |
 | :--------- | :-------- | ---------: |
-## PAST
+| Apr. 28  | Uppsala | Uplands nation 	|  
+| Apr. 29  | Uppsala | Smålands nation |  
+
+## PAST (2024)
 
 | Date  | City |  Event/Venue  |
 | :--------- | :-------- | ---------: |
