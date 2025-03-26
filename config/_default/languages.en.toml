@@ -11,12 +11,12 @@ title = "Dreamrunners"
   # logo = "images/logo.png"
   # secondaryLogo = "images/logo.png"
   description = "Official website for the Swedish rock band Dreamrunners."
-  copyright = "© Dreamrunners 2024"
+  copyright = "© Dreamrunners 2025"
 
  [params.author]
    name = " "
    # image = "images/logo.jpg"
-   headline = "A high-energy rock band with Swedish heritage and a touch of Italian zest."
+   headline = "A high-energy rock band from Sweden."
    # bio = "Music. Stuff."
    links = [
      { instagram = "https://instagram.com/dreamrunners_music" },
