@@ -6,7 +6,12 @@ title: Gigs
 ## UPCOMING (2025)
 | Date  | City |  Event/Venue  |
 | :--------- | :-------- | ---------: |
-| Apr. 28  | Uppsala | Uplands nation 	|  
+| May 24  | Uppsala | [FLOGSTA SPRING PARTY, NY Corner](https://facebook.com/events/s/flogsta-spring-party/968608425352777/) |
+| May 31  | Uppsala | [Sommarsläpp, Stora torget](https://facebook.com/events/s/sommarslapp/932313838639242/z) |
+
+## PAST (2025)
+| Date  | City |  Event/Venue  |
+| :--------- | :-------- | ---------: |
 | Apr. 29  | Uppsala | Smålands nation |  
 
 ## PAST (2024)
