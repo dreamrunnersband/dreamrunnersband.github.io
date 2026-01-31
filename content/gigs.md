@@ -3,16 +3,18 @@ title: Gigs
 
 ---
 
-## UPCOMING (2025)
+## UPCOMING (2026)
 | Date  | City |  Event/Venue  |
 | :--------- | :-------- | ---------: |
-| May 24  | Uppsala | [FLOGSTA SPRING PARTY, NY Corner](https://facebook.com/events/s/flogsta-spring-party/968608425352777/) |
-| May 31  | Uppsala | [Sommarsläpp, Stora torget](https://facebook.com/events/s/sommarslapp/932313838639242/z) |
+| Feb. 28  | Uppsala | [Uppsala Musikdemo Klubbfestival](https://www.facebook.com/events/948670854152497) |  
 
 ## PAST (2025)
 | Date  | City |  Event/Venue  |
 | :--------- | :-------- | ---------: |
+| Feb. 8  | Karlstad | Livekarusellens Riksfestival |  
 | Apr. 29  | Uppsala | Smålands nation |  
+| May 24  | Uppsala | [FLOGSTA SPRING PARTY, NY Corner](https://facebook.com/events/s/flogsta-spring-party/968608425352777/) |
+| May 31  | Uppsala | [Sommarsläpp, Stora torget](https://facebook.com/events/s/sommarslapp/932313838639242/z) |
 
 ## PAST (2024)
 
