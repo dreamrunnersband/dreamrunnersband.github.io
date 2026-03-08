@@ -6,6 +6,11 @@ title: Gigs
 ## UPCOMING (2026)
 | Date  | City |  Event/Venue  |
 | :--------- | :-------- | ---------: |
+| Mar. 14  | Uppsala | [FLOGSTA SPRING PARTY](https://www.facebook.com/events/2713350925689759) |  
+
+## PAST (2026)
+| Date  | City |  Event/Venue  |
+| :--------- | :-------- | ---------: |
 | Feb. 28  | Uppsala | [Uppsala Musikdemo Klubbfestival](https://www.facebook.com/events/948670854152497) |  
 
 ## PAST (2025)
